@@ -17,5 +17,9 @@ public class Operaciones{
         double resta = numeroDecimal1-numeroDecimal2;
         System.out.println("La division es: "+resta);
 
+        double multiplicacion = numeroDecimal1*numeroDecimal2;
+        System.out.println("La division es: "+multiplicacion);
+
+
 
 
