@@ -13,6 +13,9 @@ public class Operaciones{
 
         double suma = numeroDecimal1+numeroDecimal2;
         System.out.println("La division es: "+suma);
-        
+
+        double resta = numeroDecimal1-numeroDecimal2;
+        System.out.println("La division es: "+resta);
+
 
 
